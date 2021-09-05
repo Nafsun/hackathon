@@ -1,0 +1,12 @@
+Open this notebook for more information: car45_model_and_analysis.ipynb
+
+For running the 2 script listed below, you need a chromedriver for the current version of
+chrome in your PC.
+
+car45-mpg-extractor.py
+edmunds-scaper.py
+
+
+
+
+ 
